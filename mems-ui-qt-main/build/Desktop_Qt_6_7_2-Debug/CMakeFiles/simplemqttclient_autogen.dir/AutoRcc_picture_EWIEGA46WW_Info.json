@@ -1,0 +1,30 @@
+{
+	"BUILD_DIR" : "/home/homelander/data/mems_app/mems-ui-qt-main/build/Desktop_Qt_6_7_2-Debug/simplemqttclient_autogen",
+	"CMAKE_BINARY_DIR" : "/home/homelander/data/mems_app/mems-ui-qt-main/build/Desktop_Qt_6_7_2-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/homelander/data/mems_app/mems-ui-qt-main/build/Desktop_Qt_6_7_2-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/homelander/data/mems_app/mems-ui-qt-main",
+	"CMAKE_SOURCE_DIR" : "/home/homelander/data/mems_app/mems-ui-qt-main",
+	"CROSS_CONFIG" : false,
+	"GENERATOR" : "Ninja",
+	"INCLUDE_DIR" : "/home/homelander/data/mems_app/mems-ui-qt-main/build/Desktop_Qt_6_7_2-Debug/simplemqttclient_autogen/include",
+	"INPUTS" : 
+	[
+		"/home/homelander/data/mems_app/mems-ui-qt-main/Ani_3_new2.gif",
+		"/home/homelander/data/mems_app/mems-ui-qt-main/Ani_2_new.gif",
+		"/home/homelander/data/mems_app/mems-ui-qt-main/Chip.jpg",
+		"/home/homelander/data/mems_app/mems-ui-qt-main/1024px-Logo_HUET.png",
+		"/home/homelander/data/mems_app/mems-ui-qt-main/Ani_1_new.gif",
+		"/home/homelander/data/mems_app/mems-ui-qt-main/Logo-VNU-1995.png"
+	],
+	"LOCK_FILE" : "/home/homelander/data/mems_app/mems-ui-qt-main/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/simplemqttclient_autogen.dir/AutoRcc_picture_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "--no-zstd", "-name", "picture" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_picture.cpp",
+	"RCC_EXECUTABLE" : "/home/homelander/Qt/6.7.2/gcc_64/./libexec/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/home/homelander/data/mems_app/mems-ui-qt-main/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/simplemqttclient_autogen.dir/AutoRcc_picture_EWIEGA46WW_Used.txt",
+	"SOURCE" : "/home/homelander/data/mems_app/mems-ui-qt-main/picture.qrc",
+	"USE_BETTER_GRAPH" : false,
+	"VERBOSITY" : 0
+}

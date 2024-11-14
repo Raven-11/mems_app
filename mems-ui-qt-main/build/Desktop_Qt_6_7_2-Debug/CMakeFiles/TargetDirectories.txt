@@ -1,0 +1,9 @@
+/home/homelander/data/mems_app/mems-ui-qt-main/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/simplemqttclient.dir
+/home/homelander/data/mems_app/mems-ui-qt-main/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/edit_cache.dir
+/home/homelander/data/mems_app/mems-ui-qt-main/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/rebuild_cache.dir
+/home/homelander/data/mems_app/mems-ui-qt-main/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/list_install_components.dir
+/home/homelander/data/mems_app/mems-ui-qt-main/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/install.dir
+/home/homelander/data/mems_app/mems-ui-qt-main/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/install/local.dir
+/home/homelander/data/mems_app/mems-ui-qt-main/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/install/strip.dir
+/home/homelander/data/mems_app/mems-ui-qt-main/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/simplemqttclient_autogen_timestamp_deps.dir
+/home/homelander/data/mems_app/mems-ui-qt-main/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/simplemqttclient_autogen.dir

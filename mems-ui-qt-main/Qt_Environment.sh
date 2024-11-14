@@ -1,0 +1,7 @@
+export QT_VERSION="6.7.2"
+export QT_INSTALL_DIR="/home/sonnh/Qt"
+export CMAKE_BIN_DIR="${QT_INSTALL_DIR}/Tools/CMake/bin"
+export QMAKE_BIN_DIR="${QT_INSTALL_DIR}/${QT_VERSION}/gcc_arm64/bin"
+export CMAKE_PREFIX_PATH="${QT_INSTALL_DIR}/${QT_VERSION}/gcc_arm64/"
+export NINJA_DIR="${QT_INSTALL_DIR}/Tools/Ninja"
+export PATH="${PATH}:${CMAKE_BIN_DIR}:${QMAKE_BIN_DIR}:${NINJA_DIR}"
